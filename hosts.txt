@@ -1,1 +1,2 @@
-This is Git
+This is Git.
+hosts file for ansible
